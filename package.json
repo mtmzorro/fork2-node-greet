@@ -1,0 +1,20 @@
+{
+  "name": "greet",
+  "version": "0.0.0",
+  "description": "hello greeter",
+  "main": "index.js",
+  "bin": {
+    "greet": "./bin/greet.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "mtmzorro",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "~0.2.0"
+  }
+}
