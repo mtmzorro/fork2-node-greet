@@ -7,12 +7,11 @@ greet.init = function(name, drunk){
     this.drunk = drunk;
 
     if(name.length === 0){
-        console.log('what you name?');
-        return;
+        return 'what you name?';
     }
 
     var result = this.say();
-    
+
     return result;
 }
 
