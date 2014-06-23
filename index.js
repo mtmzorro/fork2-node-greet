@@ -12,7 +12,8 @@ greet.init = function(name, drunk){
     }
 
     var result = this.say();
-    console.log(result);
+    
+    return result;
 }
 
 greet.say = function() {
