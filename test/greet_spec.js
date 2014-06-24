@@ -4,7 +4,7 @@ var greet = require("../index.js");
 
 describe('greet', function() {
 
-    it("ishould greet a person by name", function() {
+    it("should greet a person by name", function() {
         expect(greet.init("mtmzorro")).to.eql("hello, mtmzorro");
     });
 

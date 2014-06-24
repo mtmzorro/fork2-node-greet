@@ -9,7 +9,8 @@ greet.init = function(name, drunk){
     var result = this.say();
 
     return result;
-}
+    
+};
 
 greet.say = function() {
 
@@ -25,6 +26,6 @@ greet.say = function() {
 
     }
     
-}
+};
 
 module.exports = greet;
