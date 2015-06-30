@@ -6,3 +6,13 @@ fork2-node-greet
 [Lesson 2 - Setting Up Mocha For Testing](https://gist.github.com/mtmzorro/ef8aecbdbd7f8de0428c)
 
 [Lesson 3 - Using CoffeeScript](https://gist.github.com/mtmzorro/7db19b24c2cdfa29fb50)
+
+================
+
+中间件机制
+
+[Lesson 1 - Mini Harp Static Server](https://gist.github.com/mtmzorro/001ef37b744296fb9ba2)
+
+[Lesson 2 - Mini Harp Preprocessors](https://gist.github.com/mtmzorro/001ef37b744296fb9ba2)
+
+
