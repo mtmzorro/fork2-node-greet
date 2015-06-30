@@ -14,6 +14,8 @@
 
 [Lesson 2 - Mini Harp Preprocessors](https://gist.github.com/mtmzorro/001ef37b744296fb9ba2)
 
+测试用例：https://github.com/mtmzorro/fork2-mini-harp-verify
+
 
 #### fork2-myexpress 实现自己的express 了解express原理机制
 
@@ -28,5 +30,7 @@
 [Lesson 5 - HTTP Verbs](https://gist.github.com/mtmzorro/f8bb415617e532596bfb)
 
 [Lesson 6 - Route Chaining](https://gist.github.com/mtmzorro/523ad8233b10083fb3f8)
+
+测试用例： https://github.com/mtmzorro/fork2-myexpress-verify
 
 
